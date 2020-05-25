@@ -1,0 +1,329 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <commonpara>
+    <ImageViewerPath>C:\Program Files (x86)\sqray\ImageViewerG\ImageViewer.exe</ImageViewerPath>
+
+    <locatecamerasn>GW0190110966</locatecamerasn>
+    <scancamerasn>19357522</scancamerasn>
+    <ComputerSN>170500816500059</ComputerSN>
+
+    <ccmGamma>1.200</ccmGamma>
+    <ccmRgbRate>0.952:1.000:0.980</ccmRgbRate>
+    <ccmHsvRate>1.0:0.75:1.2</ccmHsvRate>
+    <ccm>1.454746696804496, -0.542164610369125, -0.103576546688909:-0.487094406125106, 1.579175287725086, -0.324182648798483:-0.075823542002278, -0.709048372976644, 1.593385364404117</ccm>
+    
+    <MachineSN>SQS1000-20180061</MachineSN>
+
+    <barcodeX>680</barcodeX>
+    <barcodeY>300</barcodeY>
+    <barcodewidth>1300</barcodewidth>
+    <barcodeheight>1480</barcodeheight>
+
+    <resetfocuslimit_X>424000</resetfocuslimit_X>
+    <resetfocuslimit_Y>340400</resetfocuslimit_Y>
+    <resetfocuslimit_XLeft>4000</resetfocuslimit_XLeft>
+    <resetfocuslimit_YBottom>590400</resetfocuslimit_YBottom>
+
+    <PZTRang>165000</PZTRang>//压电陶瓷行程（纳米）
+    <barcodeposi_X>267626</barcodeposi_X>
+    <barcodeposi_Y>2914</barcodeposi_Y>
+    <barcodeposi_Z>80000</barcodeposi_Z>
+    <locateposi_X>618026</locateposi_X>
+    <locateposi_Y>2914</locateposi_Y>
+    <locateposi_Z>80000</locateposi_Z>
+    <sampleposi_X>1030000</sampleposi_X>
+    <sampleposi_Y>550641</sampleposi_Y>
+    <sampleposi_Z>80000</sampleposi_Z>
+
+    <homeHZ>10000</homeHZ>
+    <homeLZ>2500</homeLZ>
+    <homeHXY>150000</homeHXY>
+    <homeLXY>5000</homeLXY>
+    <homeHS>10000</homeHS>
+    <homeLS>2000</homeLS>
+    <homelim>2000</homelim>
+    <endvel>2000</endvel>
+    <jumpspeedmulti_XY>300000</jumpspeedmulti_XY>
+    <whiteCellJumpSpeedMulti_XY>30000</whiteCellJumpSpeedMulti_XY>
+    <jumpspeedmulti_Z>25000</jumpspeedmulti_Z>
+    <jumpspeedmulti_S>75000</jumpspeedmulti_S>
+    <defaultbarcodeexp>20000</defaultbarcodeexp>//拍二维码图时相机的曝光时间
+    <defaultbarcodegain>10</defaultbarcodegain>//拍二维码图时相机的增益
+    <defaultlocateexp>10000</defaultlocateexp>//拍定位图时相机的曝光时间
+    <defaultlocategain>0</defaultlocategain>//拍定位图时相机的增益
+    <locateRoiX>250</locateRoiX>
+    <locateRoiY>380</locateRoiY>
+    <locateRoiW>2100</locateRoiW>
+    <locateRoiH>1200</locateRoiH>
+    <locateimgW>2592</locateimgW>//定位图的分辨率
+    <locateimgH>1944</locateimgH>//定位图的分辨率
+    <firstfocusmotorspeed>2000</firstfocusmotorspeed>
+    <whiteCellFirstFocusMotorSpeed>500</whiteCellFirstFocusMotorSpeed>
+    <focustriggercntmulti>4</focustriggercntmulti>
+    <focusmotorjumpspeed>10000</focusmotorjumpspeed>
+    <focusmotorstartspeed>500</focusmotorstartspeed>
+    <firstfocusrange>5000</firstfocusrange>
+    <whiteCellFirstFocusRange>1400</whiteCellFirstFocusRange>
+
+    <locateledpowerscan>45</locateledpowerscan>//拍定位图时光源的亮度0-100
+    <barledpowerscan>38</barledpowerscan>//拍二维码图时光源的亮度0-100
+
+                <scanimgW>2448</scanimgW>//百倍图分辨率
+                <scanimgH>2048</scanimgH>//百倍图分辨率
+
+                <focusarraysize>500</focusarraysize>
+                <othersobelratio>1.100</othersobelratio>
+                <firstsobelratio>1.200</firstsobelratio>
+                <matchW_X_Dim>140</matchW_X_Dim>
+                <matchH_X_Dim>1600</matchH_X_Dim>
+                <matchW_Y_Dim>2000</matchW_Y_Dim>
+                <matchH_Y_Dim>140</matchH_Y_Dim>
+
+                <corrangeXDir_X>24</corrangeXDir_X>
+                <corrangeXDir_Y>24</corrangeXDir_Y>
+                <corrangeYDir_X>24</corrangeYDir_X>
+                <corrangeYDir_Y>24</corrangeYDir_Y>
+
+                <starvel>0.1</starvel>
+                <fineadjustmutl_XY>10</fineadjustmutl_XY>
+                <coursemulti_XY>15</coursemulti_XY>
+                <fineadjustmutl_Z>200</fineadjustmutl_Z>
+                <coursemulti_Z>0.9</coursemulti_Z>
+                <matchthreshold_XDir>0.25</matchthreshold_XDir>
+                <matchthreshold_YDir>0.25</matchthreshold_YDir>
+                <focusZ_compensation>0</focusZ_compensation>
+                <aMount>0.62</aMount>
+                <minarealim>225</minarealim>
+
+  <microwb_red>1.91</microwb_red>
+    <microwb_blue>1.82</microwb_blue>
+    <stm_com>COM2</stm_com>
+    <obcnt>2</obcnt>
+    <maxsavethread>9</maxsavethread>
+    <transpose>1</transpose>
+                <LoaderOn>1</LoaderOn>
+    <wbgraythre>15000</wbgraythre>
+    <whiteblurcnt>10</whiteblurcnt>
+    <closedroithread>2400</closedroithread>
+    <wbmidcntlim>30</wbmidcntlim>
+    <promidcntlim>3</promidcntlim>
+    <WHratio>5</WHratio>
+    <threGreyL>0.16</threGreyL>
+    <threGreyH>0.95</threGreyH>
+    <thregraynot>0.13</thregraynot>
+    <strh>0.04</strh>
+    <htrhh>124.2</htrhh>
+    <htrhl>27</htrhl>
+    <fcntdd>180</fcntdd>
+    <stainthre>70</stainthre>
+    <meanblurcnt>12</meanblurcnt>
+    <midblurcnt>3</midblurcnt>
+    <notbindilatecont>30</notbindilatecont>
+    <ensuresamplecnt>15</ensuresamplecnt>
+    <keepuniondilatecnt>20</keepuniondilatecnt>
+    <keepunionderodecnt>3</keepunionderodecnt>
+    <deletenoiseerodenct>8</deletenoiseerodenct>
+    <deletenoisedilatenct>4</deletenoisedilatenct>
+    <minarealim>1500</minarealim>
+    <lastrealim>14400</lastrealim>
+    <lansave>E:\SQSData</lansave>
+    <saveDir>E:\SQSData</saveDir>
+    <savedebuginformation>true</savedebuginformation>
+    <manualsettingX>800</manualsettingX>
+    <manualsettingY>400</manualsettingY>
+    <manualsettingWidth>1000</manualsettingWidth>
+    <manualsettingHeight>1000</manualsettingHeight>
+    <focuspointsX>5</focuspointsX>
+    <focuspointsY>4</focuspointsY>
+    <deviation>10</deviation>
+    <thickness>35500</thickness>
+    <startZ>399517</startZ>
+    <startjumpspeedmulti_Z>280000</startjumpspeedmulti_Z>
+    <endjumpspeedmulti_Z>12000</endjumpspeedmulti_Z>
+    <width11>42924</width11>
+    <precnt>4</precnt>
+    <sharpsize>21</sharpsize>
+    <totalpiccount>55</totalpiccount>
+    <patientInformationX>0</patientInformationX>
+    <patientInformationY>0</patientInformationY>
+    <patientInformationWidth>2592</patientInformationWidth>
+    <patientInformationHeight>1944</patientInformationHeight>
+    <macrographX>0</macrographX>
+    <macrographY>0</macrographY>
+    <macrographWidth>2592</macrographWidth>
+    <macrographHeight>1944</macrographHeight>
+    <fuyuwidth>635</fuyuwidth>
+    <offseteachY>-14</offseteachY>
+    <fuyuheight>407</fuyuheight>
+    <offseteachX>13</offseteachX>
+    <dilatesize>7</dilatesize>
+    <machinetype>1</machinetype>
+    <tenEachPicPulseWidth>11721</tenEachPicPulseWidth>//十倍图的宽度所占脉冲数
+    <tenEachPicPulseHeight>9818</tenEachPicPulseHeight>//十倍图的高度所占脉冲数
+    <hundEachPicPulseWidth>1172</hundEachPicPulseWidth>//百倍图的宽度所占脉冲数
+    <hundEachPicPulseHeight>982</hundEachPicPulseHeight>//百倍图的高度所占脉冲数
+    <pixelXOffset>-235</pixelXOffset>//百倍图相对于十倍图的坐标偏移量X（十倍的像素）
+    <pixelYOffset>-8</pixelYOffset>//百倍图相对于十倍图的坐标偏移量Y（十倍的像素）
+    <oilXOffset>233306</oilXOffset>//滴油的位置X（脉冲）
+    <oilYOffset>147954</oilYOffset>//滴油的位置Y（脉冲）
+    <ZOffset>31676</ZOffset>//百倍和十倍的焦距高度差（脉冲）
+    <bloodHundZLimt>148592</bloodHundZLimt>
+    <greaseX>490</greaseX>//抹油的区域（相对于定位图的坐标系）
+    <greaseY>490</greaseY>//抹油的区域（相对于定位图的坐标系）
+    <greaseWidth>1500</greaseWidth>//抹油的区域（相对于定位图的坐标系）
+    <greaseHeight>900</greaseHeight>//抹油的区域（相对于定位图的坐标系）
+    <ifDebug>true</ifDebug>
+<whiteDisCompar>1000</whiteDisCompar>
+    <ZCompensate>-170</ZCompensate>//第一次粗对焦的Z轴偏移量（脉冲）
+    <ZCompensateS>-170</ZCompensateS>//第二次粗对焦的Z轴偏移量（脉冲）
+    <areaXMin>490</areaXMin>//扫描区域限制（相对于定位图）
+    <areaYMin>490</areaYMin>//扫描区域限制（相对于定位图）
+    <areaXMax>2000</areaXMax>//扫描区域限制（相对于定位图）
+    <areaYMax>1400</areaYMax>//扫描区域限制（相对于定位图）
+    <barX>650</barX>//二维码识别区域（相对于二维码图）
+    <barY>160</barY>//二维码识别区域（相对于二维码图）
+    <barWidth>1150</barWidth>//二维码识别区域（相对于二维码图）
+    <barHeight>1400</barHeight>//二维码识别区域（相对于二维码图）
+    <scanXLimit>490</scanXLimit>//扫描区域限制（相对于定位图）
+    <scanYLimit>490</scanYLimit>//扫描区域限制（相对于定位图）
+    <scanWidthLimit>1500</scanWidthLimit>//扫描区域限制（相对于定位图）
+    <scanHeightLimit>900</scanHeightLimit>//扫描区域限制（相对于定位图）
+  </commonpara>
+
+  <objectivepar0>//物镜倍率的参数
+    <obmulti>100</obmulti>//物镜倍率
+    <firstfocusZstart>140033</firstfocusZstart>//初始对焦高度（脉冲）
+    <focustriggercnt>110</focustriggercnt>//压电陶瓷拍照片数
+
+    <defaultgain>3.5</defaultgain>//相机的增益
+    <defaultgamma>0.8</defaultgamma>//相机的gamma
+    <defaultexp>30</defaultexp>//相机的曝光时间
+
+    <AS_posi>23684</AS_posi>
+    <k1>0.0000000030</k1>
+    <k2>0</k2>
+
+    <scanvel>60000</scanvel>
+
+    <locatecaliX>45438</locatecaliX>
+    <locatecaliY>256885  </locatecaliY>
+    <locatecalidx>191.188596491228</locatecalidx>
+    <locatecalidy>191.78431372549</locatecalidy>
+
+    <X_compensation>0</X_compensation>
+    <Y_compensation>0</Y_compensation>
+
+    <oddcompensation>-12</oddcompensation>
+    <cutX>140</cutX>
+
+    <triggerincreX_compensation>0</triggerincreX_compensation>
+    <triggerincreY_compensation>0</triggerincreY_compensation>
+
+    <Xmove_precompensation>0</Xmove_precompensation>
+
+    <triggerincre>1020</triggerincre>
+    <microledpowerscan>100</microledpowerscan>//光源亮度0-100
+
+    <profilemargin>7500</profilemargin>
+    <fcntdd>100</fcntdd>
+    <Sxcountfuyu>2</Sxcountfuyu>
+    <focusincre>60</focusincre>//每张图的触发间隔（纳米）
+
+    <microwb_red>1.81</microwb_red>//白平衡参数（红）
+    <microwb_blue>1.75</microwb_blue>//白平衡参数（蓝）
+
+    <Zlimit>70000</Zlimit>
+  </objectivepar0>
+
+  <objectivepar1>//物镜倍率的参数
+    <obmulti>10</obmulti>//物镜倍率
+    <firstfocusZstart>108357</firstfocusZstart>//初始对焦高度（脉冲）
+    <focustriggercnt>80</focustriggercnt>//压电陶瓷拍照片数
+
+    <defaultgain>3</defaultgain>//相机的增益
+    <defaultexp>30</defaultexp>//相机的曝光时间
+    <defaultgamma>0.7</defaultgamma>//相机的gamma
+
+    <AS_posi>362492</AS_posi>
+    <k1>0.0000000009</k1>
+    <k2>0</k2>
+
+    <scanvel>200000</scanvel>
+
+    <locatecaliX>47304</locatecaliX>
+    <locatecaliY>256838</locatecaliY>
+    <locatecalidx>191.114035087719</locatecalidx>
+    <locatecalidy>191.850490196078</locatecalidy>
+
+    <oddcompensation>-118</oddcompensation>
+    <X_compensation>0</X_compensation>
+    <Y_compensation>0</Y_compensation>
+    <cutX>0</cutX>
+
+    <triggerincreX_compensation>0</triggerincreX_compensation>
+    <triggerincreY_compensation>0</triggerincreY_compensation>
+
+    <Xmove_precompensation>0</Xmove_precompensation>
+
+    <triggerincre>11700</triggerincre>
+    <microledpowerscan>100</microledpowerscan>//光源亮度0-100
+
+    <profilemargin>10000</profilemargin>
+    <fcntdd>200</fcntdd>
+    <Sxcountfuyu>2</Sxcountfuyu>
+    <focusincre>160</focusincre>//每张图的触发间隔（纳米）
+
+    <microwb_red>1.85</microwb_red>//白平衡参数（红）
+    <microwb_blue>1.67</microwb_blue>//白平衡参数（蓝）
+    <Zlimit>50000</Zlimit>
+  </objectivepar1>
+ <loader>
+                <jumpspeed_X>300000</jumpspeed_X>
+                <jumpspeed_Z>700000</jumpspeed_Z>
+                <detectspeed_Z>150000</detectspeed_Z>                
+                <jumpspeed_R>90000</jumpspeed_R>
+                <homeHX>40000</homeHX>
+                <homeLX>2000</homeLX>
+                <homeHZ>40000</homeHZ>
+                <homeLZ>2000</homeLZ>
+                <homeHR>70000</homeHR>
+                <homeLR>2000</homeLR>
+                <homelim>250</homelim>
+                <fineadjustmutl_X>8</fineadjustmutl_X>
+                <coursemulti_X>1</coursemulti_X>
+                <fineadjustmutl_Z>8</fineadjustmutl_Z>
+                <coursemulti_Z>2</coursemulti_Z>
+                <fineadjustmutl_R>2</fineadjustmutl_R>
+                <coursemulti_R>5</coursemulti_R>
+                <endvel>2000</endvel>
+                <racks>2</racks>
+                <lines>25</lines>      
+                <Xinrack>163676</Xinrack>
+                <XoutrackAndscanner>-4000</XoutrackAndscanner>
+                <Xinscanner>143000</Xinscanner>                    
+                <racksintervalR>-135867</racksintervalR>
+                <linesintervalZ>-22000</linesintervalZ>           
+                <racksstartR>193374</racksstartR>             
+                <linesStartholdZ>558794</linesStartholdZ>            
+                <linesStartfloatZ>566674</linesStartfloatZ>
+                <pawintervalZ>-0</pawintervalZ>                     
+                <delay1>50</delay1>            
+                <delay2>700</delay2> 
+                <scannerholdZ>189000</scannerholdZ>
+                <scannerfloatZ>200000</scannerfloatZ>
+                <scannerR>507915</scannerR>
+                <scannerholddetectZ>347366</scannerholddetectZ>
+                <scannerholddetectX>3.02</scannerholddetectX>     
+                <scannerholdmargin>4</scannerholdmargin>      
+                <extraReleaseR>315465</extraReleaseR>
+                <extraReleasefloatZ>45000</extraReleasefloatZ>
+                <extraReleaseholdZ>40000</extraReleaseholdZ>    
+                <rackslidedetectZstart>714989</rackslidedetectZstart>  
+                <rackslidedetectZmargin>8</rackslidedetectZmargin>                  
+                <slidedesiredthickness>1.1</slidedesiredthickness>
+                <slideZerorLim>3.0</slideZerorLim>   
+                <slidedesiredthickerrorLim>0.6</slidedesiredthickerrorLim>
+                <thickerrorCompensation>0.30</thickerrorCompensation>
+                <slideInterpolateIntervalR>5000</slideInterpolateIntervalR>        
+	</loader>
+</root>
